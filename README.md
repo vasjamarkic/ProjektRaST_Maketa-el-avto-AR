@@ -1,2 +1,4 @@
 # ProjektRaST_Maketa-el-avto-AR
 Projekt izdelave makete električnega vozila z LI-ion celicami in obogateno resničnostjo
+
+Z izdelavo makete smo začeli v novembru 2018, ko smo uspešno prijavili projekt na razpis RaST. Za delovanje 5 kW BLDC motorja smo načrtoval baterijski sistem z 140 Li-ion celicami, vezani v 10p14s konfiguraciji. Vse pridobljene celice iz odrabljenih prenosnikov, powerbank-ov in e-koles smo z Voltcraft merilcem temeljito testirali (polnjenje, praznjenje, polnjenje, notranja upornost, pregrevanje) in slabe izločili, dobre pa presortirali v skupine po podobnih kapacitetah. Nakup EV opreme je bil opravljen pri dobavitelju Miromax (Latvija), ostala oprema pa na eBay-u in lokalnih tehničnih trgovinah. Visokonapetostni sklop ima največjo napetost 58,8 V, zato smo izbrali polnilec takšne napetosti in motor s krmilnikom do napetosti 72 V. Sistem smo z glavno varovalko (ETI) omejili na 125 A, dodatno pa krmilnik sprogramirali na še nižji tok obratovanja. 
